@@ -13,7 +13,7 @@ Functions (arguments, return)
 if statements 
 Boolean values (true, false) 
 
-Variables - Just like in pre-Algebra variables represent and give you a way to refer to data.  Only with Javascript those variables can be just about anything. 
+<b>Variables</b> - Just like in pre-Algebra variables represent and give you a way to refer to data.  Only with Javascript those variables can be just about anything. 
 
 Strings - Strings are a type of variable that hold alphanumeric data.
 
