@@ -4,11 +4,24 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Variables
-	* Strings
-	* Functions (arguments, `return`)
-	* `if` statements
-	* Boolean values (`true`, `false`)
+Lesson 1 writing prompts.
+
+
+Variables 
+Strings 
+Functions (arguments, return) 
+if statements 
+Boolean values (true, false) 
+
+Variables - Just like in pre-Algebra variables represent and give you a way to refer to data.  Only with Javascript those variables can be just about anything. 
+
+Strings - Strings are a type of variable that hold alphanumeric data.
+
+Functions - Functions hold a group of data (variables and expressions etc) and allow you to easily refer to said data.
+
+If statements tell your script what do to do based on whether or not a statement is true.
+
+Boolean values are simply true or false.  Boolean variables can be used, among other things, to return whether or not a statement is true or false.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
