@@ -21,7 +21,7 @@ Boolean values (true, false)
 
 <b>If</b> statements tell your script what do to do based on whether or not a statement is true.
 
-<b>Boolean values are simply true or false.  Boolean variables can be used, among other things, to return whether or not a statement is true or false.
+<b>Boolean</b> values are simply true or false.  Boolean variables can be used, among other things, to return whether or not a statement is true or false.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
